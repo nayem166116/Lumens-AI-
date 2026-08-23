@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /verify
-Disallow: /loading
-Sitemap: https://lumens.ai/sitemap.xml
